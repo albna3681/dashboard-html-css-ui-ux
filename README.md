@@ -2,7 +2,7 @@
 
 ## 🖼️ معاينة المشروع
 ![Dashboard Preview]
-(dashboard-html-css-ui-ux/photo_2025-06-16_00-24-45.jpg)
+(https://github.com/albna3681/dashboard-html-css-ui-ux/blob/f3b48e897faa57f85976803665573a40040a6c6d/photo_2025-06-16_00-24-45.jpg)
 
 *لوحة التحكم الإدارية - تصميم حديث ومتجاوب*
 
