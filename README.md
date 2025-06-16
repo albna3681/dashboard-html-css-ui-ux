@@ -1,7 +1,7 @@
 # 📊 لوحة التحكم الإدارية الحديثة - Admin Dashboard
 
 ## 🖼️ معاينة المشروع
-![Dashboard Preview](https://github.com/albna3681/dashboard-html-css-ui-ux/blob/f3b48e897faa57f85976803665573a40040a6c6d/photo_2025-06-16_00-24-45.jpg)
+![Dashboard Preview](https://github.com/albna3681/dashboard-html-css-ui-ux/blob/9cd444f3c038610fe134bb76783a743a53d89c37/Screenshot%20(289).png)
 
 *لوحة التحكم الإدارية - تصميم حديث ومتجاوب*
 
